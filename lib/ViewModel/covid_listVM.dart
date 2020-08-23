@@ -1,5 +1,5 @@
 
-import 'package:covid19_tracker/BLOC/country.dart';
+import 'package:covid19_tracker/Models/country.dart';
 import 'package:covid19_tracker/Services/covid_client.dart';
 import 'package:flutter/material.dart';
 

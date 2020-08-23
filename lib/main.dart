@@ -1,4 +1,4 @@
-import 'package:covid19_tracker/BLOC/covid_listVM.dart';
+import 'package:covid19_tracker/ViewModel/covid_listVM.dart';
 import 'package:covid19_tracker/UI/home.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

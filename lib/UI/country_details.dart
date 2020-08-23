@@ -1,4 +1,4 @@
-import 'package:covid19_tracker/BLOC/country.dart';
+import 'package:covid19_tracker/Models/country.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:intl/intl.dart';
